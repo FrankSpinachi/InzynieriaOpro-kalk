@@ -1,3 +1,5 @@
 Autor: Franciszek Knez
-To jest repozytorium testowe z Inżynierii Oprogramowanie.
-Będą tutaj pierwsze commity i branche
+
+To jest repozytorium z kalkulatorem z Inżynierii Oprogramowania.
+Będą tutaj pierwsze commity i branche, a także funkcje tworzące kalulator
+
