@@ -5,6 +5,8 @@ def hello(name):
 def odejmij(a,b):
 	return a-b
 
+def pomnoz(a,b):
+	return a*b
 def dodaj(a,b):
 	wynik = float(a) + float(b)
 	return wynik
