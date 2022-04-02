@@ -7,8 +7,13 @@ def odejmij(a,b):
 
 def pomnoz(a,b):
 	return a*b
+
 def dodaj(a,b):
 	wynik = float(a) + float(b)
+	return wynik
+
+def podziel(a,b):
+	wynik = float(a) / float(b)
 	return wynik
 
 pierwsza = input()
