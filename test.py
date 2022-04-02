@@ -19,6 +19,9 @@ def podziel(a,b):
 	wynik = float(a) / float(b)
 	return wynik
 
+def wyzeruj(a,b)
+	return a + b - a - b
+
 pierwsza = input()
 druga = input()
 
